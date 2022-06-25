@@ -1,6 +1,6 @@
 Hi there 👋
 - 👋 Hi, I’m @SarthakShri
-- 👀 I’m interested in Python, AI , Databases, Open Source Projects and learning new things!
+- 👀 I’m interested in Python, AI/ML , Databases, Open Source Projects and learning new things!
 - 🌱 I’m currently learning C++ and Flutter! 
 - 💞️ I’m looking to collaborate on Python Projects !
 
