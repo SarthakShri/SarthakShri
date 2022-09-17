@@ -7,11 +7,11 @@
 <br>
 <br>
 <p align="center">
-- 😁 I’m looking to collaborate on **OpenSource Projects**
+  - 😁 I’m looking to collaborate on <b><i>OpenSource Projects</b></i>
 </p><p align="center">
-- 🌱 I’m currently pursuing C++, Flutter and Swift!
+- 🌱 I’m currently pursuing Go, Flutter and Swift!
 </p><p align="center">
-- 💬 Ask me about **Python, SQL, Swift, FLutter!**
+- 💬 Ask me about <b><i>Python</b></i>, <b><i>SQL</b></i>, <b><i>Swift</b></i>, <b><i>FLutter</b></i>!
 </p><p align="center">
 - ⚡ Fun fact **In my free time, you'll find me reading books 📖 or watching anime and shows and movies 🎬!.**
 </p>
