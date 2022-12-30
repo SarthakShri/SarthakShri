@@ -1,4 +1,4 @@
-<p align="left"><img width=5%%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=5%%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">Hey there ! 👋, I'm Sarthak Shrivastava </h1>
 <img align="left" alt="hello" width="150" src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
 <h3 align="center">A passionate Developer and Programmer</h3>
